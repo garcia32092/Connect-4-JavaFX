@@ -46,7 +46,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.6</version>
                 <configuration>
-                    <mainClass>ui.Connect4GUI</mainClass>
+                    <mainClass>ui.Connect4</mainClass>
                 </configuration>
                 <executions>
                     <execution>
