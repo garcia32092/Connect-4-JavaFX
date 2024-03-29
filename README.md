@@ -1,5 +1,10 @@
 # Connect 4
 
+## Images
+![Example 1](images/example1.jpg)
+![Example 2](images/example2.jpg)
+![Example 3](images/example3.jpg)
+
 ## Introduction
 Classic Connect 4 game where users attempt to connect four of their coloured disks by dropping them into the holder before their opponent does.
 
