@@ -1,0 +1,18 @@
+.root{
+	-fx-background-color: #C0C0C0;
+	-fx-font-size: 15pt;
+	-fx-font-weight: bold;
+}
+#rules-label {
+	-fx-font-size: 12pt;
+	-fx-font-weight: bold;
+}
+#make-move-label {
+	-fx-font-size: 20pt;
+	-fx-font-weight: bolder;
+}
+#end-game-label {
+	-fx-text-fill: #FFFFFF;
+	-fx-font-size: 50pt;
+	-fx-font-weight: bolder;
+}

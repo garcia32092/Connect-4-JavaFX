@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * 2023SpringB-X-SER216-15142 / ASU Online
- * Assignment: Project: Deliverable 2
+ * Assignment: Project: Deliverable 4
  * @author Randy Elias Garcia
  * Description: A class representing a computer player for a Connect 4 game.
  * 

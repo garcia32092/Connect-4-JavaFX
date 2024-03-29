@@ -1,18 +1,29 @@
+# Connect 4
+
+## Introduction
+Classic Connect 4 game where users attempt to connect four of their coloured disks by dropping them into the holder before their opponent does.
+
+## Features
+- Optional GUI: Users can choose between a terminal or GUI version of the game.
+- Game Modes: Users can choose between single or 2 player modes.
+- Animations: Disk pieces are animated so that they appear to fall into the user’s chosen columns.
+
 ## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and playing purposes.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Prerequisites
+- Java Development Kit (JDK) version 11 or higher along with the necessary dependencies.
 
-## Folder Structure
+### Installation
+1. Clone the repo:
+2. Open the project in your preferred IDE (Eclipse, IntelliJ, etc.).
+3. Build and run the project.
 
-The workspace contains two folders by default, where:
+## Dependencies
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `lib`: the lib folder contains the necessary JavaFX dependency JAR files. Be sure to add these external JAR files to your project's referenced libraries so that you can run the application.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Usage
+- Choose game mode.
+- Click Play at the main menu.
+- Click the column you want to place a disk piece into.

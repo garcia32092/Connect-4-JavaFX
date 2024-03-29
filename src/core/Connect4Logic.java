@@ -3,7 +3,7 @@ package core;
 /**
  * 
  * 2023SpringB-X-SER216-15142 / ASU Online
- * Assignment: Project: Deliverable 2
+ * Assignment: Project: Deliverable 4
  * @author Randy Elias Garcia
  * Description: A class representing the logic for the Connect 4 game.
  * 

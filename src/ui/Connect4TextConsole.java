@@ -8,7 +8,7 @@ import core.Connect4Logic;
 
 /**
  * 2023SpringB-X-SER216-15142 / ASU Online
- * Assignment: Project: Deliverable 2
+ * Assignment: Project: Deliverable 4
  * @author Randy Elias Garcia
  * Description: The Connect4TextConsole class represents the text-based console interface for the Connect 4 game.
  * 
@@ -147,11 +147,11 @@ public class Connect4TextConsole {
     /**
      * The main method to start the Connect 4 game.
      * 
-     * @param args
+     * @param args an array of command-line arguments for the application.
      */
-    public static void main(String[] args) {
-        Connect4TextConsole gameConsole = new Connect4TextConsole();
-        gameConsole.start();
-
-    }
+//    public static void main(String[] args) {
+//        Connect4TextConsole gameConsole = new Connect4TextConsole();
+//        gameConsole.start();
+//
+//    }
 }

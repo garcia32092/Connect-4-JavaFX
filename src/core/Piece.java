@@ -5,7 +5,7 @@ import javafx.scene.shape.Circle;
 /**
  * 
  * 2023SpringB-X-SER216-15142 / ASU Online
- * Assignment: Project: Deliverable 2
+ * Assignment: Project: Deliverable 4
  * @author Randy Elias Garcia
  * Description: A class representing a game piece in a Connect 4 game.
  * 
@@ -21,8 +21,11 @@ public class Piece extends Circle {
     private String color;
     
     private static final int TILE_SIZE = 70;
-	
-	Piece() {
+    
+	/**
+	 * Constructs a circular game piece for a Connect4 GUI
+	 */
+	public Piece() {
 		super(TILE_SIZE / 2 + 5);
 		
 		setCenterX(TILE_SIZE / 2);
